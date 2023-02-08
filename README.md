@@ -1,4 +1,4 @@
-# `@francoromanol/streak-counter` - a basic streak counter
+# `@fprl/streak-counter` - a basic streak counter
 
 This is a basic streak counter - inspired by Duolingo - written in TypeScript and meant for the browser (uses `localStorage`).
 
