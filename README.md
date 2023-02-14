@@ -12,6 +12,8 @@ npm install @francoromanol/streak-counter
 yarn add @jsjoeio/streak-counter
 ```
 
+[![Edit streak-counter (ts-course) (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/streak-counter-ts-course-forked-ze3vwb?fontsize=14&hidenavigation=1&theme=dark)
+
 Usage
 
 ```
